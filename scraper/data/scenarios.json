@@ -1,0 +1,75 @@
+[
+  {
+    "event": "Help Desk",
+    "year": "2019",
+    "source_url": "https://teachfbla.org/wp-content/uploads/2019/08/Sample-Role-Play-Help-Desk.pdf",
+    "source": "teachfbla.org",
+    "background": "You are the help desk manager for Big Bank. Big Bank is a national bank with a centralized IT Department. If individual banks have technical support needs, they call your department directly.",
+    "situation": "Suzanne, who is a loan officer, is sitting with her supervisors. They are having an ongoing issue with their loan data input. They have entered all loan information for the current applicant three times, saved it, and then went to review it and found nothing to be there.\n\nOn the back end at the technical support department, you are not showing that anything has been submitted. You will need to explore what is happening with the team at the local branch to figure out why their system is not talking to headquarters.",
+    "tasks": [
+      "You have received Suzanne's phone call and must decide what to do next.",
+      "Suzanne is already frustrated, upset, and is short on time when she calls and is in need of immediate assistance.",
+      "You need to calm her down and help her take care of the customers in front of her."
+    ],
+    "performance_indicators": [
+      "Communications skills — the ability to exchange information and ideas with others through writing, speaking, reading, or listening",
+      "Analytical skills — the ability to derive facts from data, findings from facts, conclusions from findings, and recommendations from conclusions",
+      "Production skills — the ability to take a concept from an idea and make it real",
+      "Priorities/time management — the ability to determine priorities and manage time commitments"
+    ],
+    "role_instructions": "You will play the role of a help desk manager for Utmost Support, Inc. One judge will play the role of Amanda who is a customer.",
+    "time_limit_minutes": 5,
+    "prep_time_minutes": 10,
+    "scraped_at": "2026-06-29T00:00:00"
+  },
+  {
+    "event": "Sports & Entertainment Management",
+    "year": "2019",
+    "source_url": "https://teachfbla.org/wp-content/uploads/2019/08/Sample-Role-Play-Sports-Entertainment-Management.pdf",
+    "source": "teachfbla.org",
+    "background": "You are the marketing manager for a minor league baseball team, the River City Rockets. The team has been struggling with attendance and is looking for ways to boost ticket sales and fan engagement.",
+    "situation": "The team owner has asked you to develop a marketing strategy to increase attendance by 20% next season. You have a limited budget of $50,000 for marketing initiatives. The team's biggest competitor, the City Hawks, recently launched a successful social media campaign that went viral.",
+    "tasks": [
+      "Present a comprehensive marketing plan to increase attendance by 20%.",
+      "Identify at least three specific promotional strategies within the $50,000 budget.",
+      "Explain how you will measure the success of your marketing efforts.",
+      "Address how you will differentiate the Rockets from the City Hawks."
+    ],
+    "performance_indicators": [
+      "Develop a marketing plan to increase sports and entertainment event attendance",
+      "Explain the nature of sport/event marketing",
+      "Identify the target market for sports and entertainment events",
+      "Describe the use of promotional mix in sports and entertainment marketing"
+    ],
+    "role_instructions": "You will play the role of the marketing manager presenting to the team owner (judge). Be prepared to answer questions about your strategy and budget allocation.",
+    "time_limit_minutes": 5,
+    "prep_time_minutes": 10,
+    "scraped_at": "2026-06-29T00:00:00"
+  },
+  {
+    "event": "Entrepreneurship",
+    "year": "2023",
+    "source_url": "https://connect.fbla.org/headquarters/files/High School Competitive Events Resources/Individual Guidelines/Role Play Events/Entrepreneurship.pdf",
+    "source": "fbla.org",
+    "background": "You are a recent college graduate who has developed a mobile app that connects local farmers directly with consumers, allowing people to purchase fresh produce without going through grocery stores. Your app, FarmDirect, has been in beta testing for 6 months with 500 users in your city.",
+    "situation": "You are meeting with a potential angel investor who is interested in the agricultural technology space. The investor has $250,000 available to invest but is evaluating three other startups in addition to yours. You need to convince them that FarmDirect is the best investment opportunity.",
+    "tasks": [
+      "Present your business concept and value proposition clearly.",
+      "Explain your current traction and growth metrics from the beta period.",
+      "Describe your monetization strategy and path to profitability.",
+      "Address potential risks and how you plan to mitigate them.",
+      "Specify exactly how you would use the $250,000 investment."
+    ],
+    "performance_indicators": [
+      "Assess start-up requirements of entrepreneurial enterprises",
+      "Explain the role of business planning in entrepreneurial ventures",
+      "Describe the use of technology in entrepreneurship",
+      "Explain methods to generate capital for entrepreneurial ventures",
+      "Analyze financial risks of entrepreneurship"
+    ],
+    "role_instructions": "You will play the role of the entrepreneur/startup founder. The judge will play the role of the angel investor who will ask probing questions about your business model.",
+    "time_limit_minutes": 5,
+    "prep_time_minutes": 10,
+    "scraped_at": "2026-06-29T00:00:00"
+  }
+]

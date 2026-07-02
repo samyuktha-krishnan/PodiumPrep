@@ -1,0 +1,218 @@
+{
+  "Help Desk": {
+    "event": "Help Desk",
+    "year": "2022-23",
+    "source_url": "https://www.fbla.org/media/2022/08/2022-23-High-School-Rating-Sheets-All-8.30.22.pdf",
+    "criteria": [
+      {
+        "criterion": "Demonstrate understanding of help desk operations and technical support processes",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Communicate effectively with the customer to identify and clarify the problem",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Propose a logical, step-by-step solution to the technical issue",
+        "not_demonstrated": 0,
+        "below_expectations": "1-7",
+        "meets_expectations": "8-14",
+        "exceeds_expectations": "15-20",
+        "max_points": 20
+      },
+      {
+        "criterion": "Demonstrate professionalism and empathy when handling a frustrated customer",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Manage time effectively and address all aspects of the scenario",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Use appropriate business vocabulary and communication style",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Demonstrate analytical thinking by diagnosing the root cause of the problem",
+        "not_demonstrated": 0,
+        "below_expectations": "1-7",
+        "meets_expectations": "8-14",
+        "exceeds_expectations": "15-20",
+        "max_points": 20
+      },
+      {
+        "criterion": "Provide a follow-up plan or preventative measures to avoid future issues",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-7",
+        "exceeds_expectations": "8-10",
+        "max_points": 10
+      }
+    ],
+    "total_points": 100
+  },
+  "Sports & Entertainment Management": {
+    "event": "Sports & Entertainment Management",
+    "year": "2022-23",
+    "source_url": "https://www.fbla.org/media/2022/08/2022-23-High-School-Rating-Sheets-All-8.30.22.pdf",
+    "criteria": [
+      {
+        "criterion": "Develop a comprehensive marketing strategy with clear goals and objectives",
+        "not_demonstrated": 0,
+        "below_expectations": "1-7",
+        "meets_expectations": "8-14",
+        "exceeds_expectations": "15-20",
+        "max_points": 20
+      },
+      {
+        "criterion": "Identify and justify the target market for the sports/entertainment property",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Propose specific promotional tactics and explain their expected impact",
+        "not_demonstrated": 0,
+        "below_expectations": "1-7",
+        "meets_expectations": "8-14",
+        "exceeds_expectations": "15-20",
+        "max_points": 20
+      },
+      {
+        "criterion": "Demonstrate knowledge of sports/entertainment marketing principles",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Address budget considerations and return on investment",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Communicate ideas clearly and professionally with the judge",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Respond effectively to judge questions and think on your feet",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Demonstrate overall professionalism, poise, and confidence",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-7",
+        "exceeds_expectations": "8-10",
+        "max_points": 10
+      }
+    ],
+    "total_points": 100
+  },
+  "Entrepreneurship": {
+    "event": "Entrepreneurship",
+    "year": "2022-23",
+    "source_url": "https://www.fbla.org/media/2022/08/2022-23-High-School-Rating-Sheets-All-8.30.22.pdf",
+    "criteria": [
+      {
+        "criterion": "Clearly articulate the business concept, value proposition, and problem being solved",
+        "not_demonstrated": 0,
+        "below_expectations": "1-7",
+        "meets_expectations": "8-14",
+        "exceeds_expectations": "15-20",
+        "max_points": 20
+      },
+      {
+        "criterion": "Demonstrate understanding of the target market and competitive landscape",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Present a viable monetization strategy and path to profitability",
+        "not_demonstrated": 0,
+        "below_expectations": "1-7",
+        "meets_expectations": "8-14",
+        "exceeds_expectations": "15-20",
+        "max_points": 20
+      },
+      {
+        "criterion": "Address risks and challenges with realistic mitigation strategies",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Demonstrate knowledge of entrepreneurial principles and business planning",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_exceptions": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Show evidence of traction, validation, or market research",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Communicate persuasively and respond confidently to investor questions",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-8",
+        "exceeds_expectations": "9-10",
+        "max_points": 10
+      },
+      {
+        "criterion": "Demonstrate overall professionalism, enthusiasm, and entrepreneurial mindset",
+        "not_demonstrated": 0,
+        "below_expectations": "1-4",
+        "meets_expectations": "5-7",
+        "exceeds_expectations": "8-10",
+        "max_points": 10
+      }
+    ],
+    "total_points": 100
+  }
+}

@@ -1,0 +1,37 @@
+name: Update FBLA Data
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"   # Runs at 6am UTC on the 1st of every month
+  workflow_dispatch:        # Also allows manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 pymupdf playwright
+          python -m playwright install chromium
+
+      - name: Run scraper
+        run: python scraper/scrape_fbla.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "PodiumPrep Bot"
+          git config user.email "bot@podiumprep.app"
+          git add scraper/data/
+          git diff --staged --quiet || git commit -m "chore: auto-update FBLA scenarios and rubrics [$(date +'%Y-%m')]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
